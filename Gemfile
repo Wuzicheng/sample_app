@@ -1,5 +1,9 @@
 source 'https://rubygems.org'
 
+gem 'rspec-rails', '2.11.0'
+gem 'factory_girl_rails', '1.4.0'
+gem 'capybara'
+gem 'minitest'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.4'
