@@ -5,6 +5,10 @@ gem 'factory_girl_rails', '1.4.0'
 gem 'capybara'
 gem 'minitest'
 
+#Bootstrap 是 Twitter 开发的框架，可以方便的把精美的 Web 设计和用户界面元素添加到使用 HTML5 开发的应用程序中
+gem 'bootstrap-sass', '2.3.2.0'
+
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.4'
 # Use sqlite3 as the database for Active Record
